@@ -23,7 +23,7 @@ Primero deberemo ir al las opciones en git-hub y seleccionar la opcion de ISSUES
 
  # Realizar un pull Request 
 
-
+Debemos irnos a la opcion de pull  requests y seleccionar new pullrequest y ahi cambiar la opcion de Damian por la mia 
 
 
 
